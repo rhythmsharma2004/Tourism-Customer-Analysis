@@ -82,21 +82,19 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
 ## How to Run
 
+▶️ **Run directly in Google Colab** (no setup needed):  
+[Open in Colab](https://colab.research.google.com/drive/1eWsdE79WtWfO_W-kwebaVZSadcSLCpi-?usp=sharing)
+
+**Or run locally:**
+
 ```bash
 git clone https://github.com/rhythmsharma2004/tourism-customer-analysis
 cd tourism-customer-analysis
 pip install pandas numpy matplotlib seaborn openpyxl jupyter
 jupyter notebook Tourism_Customer_Analysis.ipynb
 ```
-OR
 
-▶️ **Run directly in Google Colab** (no setup needed):  
-[Open in Colab](https://colab.research.google.com/drive/1eWsdE79WtWfO_W-kwebaVZSadcSLCpi-?usp=sharing)
-
-Or run locally:
-...
-
-> Keep Tourism.xlsx in the same folder as the notebook.
+> Keep `Tourism.xlsx` in the same folder as the notebook.
 
 ---
 
