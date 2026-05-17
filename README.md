@@ -93,4 +93,4 @@ jupyter notebook TourismAnalysis_Upgraded.ipynb
 
 ---
 
-*Rhythm Sharma · IIT Jodhpur · [LinkedIn](https://linkedin.com/in/rhythm-sharma) · [GitHub](https://github.com/rhythmsharma2004)*
+*Rhythm Sharma · IIT Jodhpur · [LinkedIn](https://www.linkedin.com/in/rhythm-sharma-433428253/) · [GitHub](https://github.com/rhythmsharma2004)*
